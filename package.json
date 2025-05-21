@@ -1,0 +1,27 @@
+{
+  "name": "stringy-tools-kouhsari",
+  "version": "1.0.0",
+  "description": "A utility package for string manipulation and number formatting with Persian language support",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "string",
+    "string-utils",
+    "persian",
+    "slug",
+    "discount",
+    "format",
+    "capitalize",
+    "validation"
+  ],
+  "author": "reza kouhsari <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezakouhsari/stringy-tools/issues"
+  },
+  "homepage": "https://rtor.ir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rezakouhsari/stringy-tools.git"
+  }
+}

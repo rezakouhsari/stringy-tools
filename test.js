@@ -1,0 +1,18 @@
+const utils = require("./index");
+
+console.log(utils.slug("Hello World!"));
+console.log(utils.toPersianDigits("123456"));
+console.log(utils.toEnglishDigits("۱۲۳۴۵۶"));
+console.log(utils.calculateDiscount(200, 150));
+console.log(utils.formatNumber(1234567));
+console.log(utils.capitalize("hello world"));
+console.log(utils.capitalizeWords("hello world"));
+console.log(utils.removeExtraSpaces("  hi   there  "));
+console.log(utils.truncate("This is a long sentence", 10));
+console.log(utils.isValidEmail("test@example.com"));
+console.log(utils.stripHtml("<p>Hello <b>world</b></p>"));
+console.log(utils.kebabCase("Hello World Test"));
+console.log(utils.snakeCase("Hello World Test"));
+console.log(utils.countWords("سلام دنیا چطوری"));
+console.log(utils.extractNumbers("قیمت: ۱۲۳ و کد 456"));
+console.log(utils.containsPersian("hello دنیا"));

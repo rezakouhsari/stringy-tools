@@ -1,0 +1,18 @@
+module.exports = {
+  slug: require("./utils/slug"),
+  toPersianDigits: require("./utils/toPersianDigits"),
+  toEnglishDigits: require("./utils/toEnglishDigits"),
+  calculateDiscount: require("./utils/calculateDiscount"),
+  formatNumber: require("./utils/formatNumber"),
+  capitalize: require("./utils/capitalize"),
+  capitalizeWords: require("./utils/capitalizeWords"),
+  removeExtraSpaces: require("./utils/removeExtraSpaces"),
+  truncate: require("./utils/truncate"),
+  isValidEmail: require("./utils/isValidEmail"),
+  stripHtml: require("./utils/stripHtml"),
+  kebabCase: require("./utils/kebabCase"),
+  snakeCase: require("./utils/snakeCase"),
+  countWords: require("./utils/countWords"),
+  extractNumbers: require("./utils/extractNumbers"),
+  containsPersian: require("./utils/containsPersian"),
+};
