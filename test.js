@@ -16,3 +16,7 @@ console.log(utils.snakeCase("Hello World Test"));
 console.log(utils.countWords("سلام دنیا چطوری"));
 console.log(utils.extractNumbers("قیمت: ۱۲۳ و کد 456"));
 console.log(utils.containsPersian("hello دنیا"));
+console.log(utils.isValidIranianMobile("09000000000"));
+console.log(utils.numberToPersianWords("1.005"));
+console.log(utils.isValidIranianNationalCode("4000000000"));
+console.log(utils.isValidIranianPostalCode("123"));

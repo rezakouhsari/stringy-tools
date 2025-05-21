@@ -15,4 +15,8 @@ module.exports = {
   countWords: require("./utils/countWords"),
   extractNumbers: require("./utils/extractNumbers"),
   containsPersian: require("./utils/containsPersian"),
+  isValidIranianMobile: require("./utils/isValidIranianMobile"),
+  numberToPersianWords: require("./utils/numberToPersianWords"),
+  isValidIranianNationalCode: require("./utils/isValidIranianNationalCode"),
+  isValidIranianPostalCode: require("./utils/isValidIranianPostalCode"),
 };
