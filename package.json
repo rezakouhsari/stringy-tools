@@ -1,6 +1,6 @@
 {
   "name": "stringy-tools-kouhsari",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility package for string manipulation and number formatting with Persian language support",
   "main": "index.js",
   "scripts": {},
