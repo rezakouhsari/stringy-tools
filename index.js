@@ -19,4 +19,5 @@ module.exports = {
   numberToPersianWords: require("./utils/numberToPersianWords"),
   isValidIranianNationalCode: require("./utils/isValidIranianNationalCode"),
   isValidIranianPostalCode: require("./utils/isValidIranianPostalCode"),
+  getBankFromCardNumber: require("./utils/getBankFromCardNumber"),
 };

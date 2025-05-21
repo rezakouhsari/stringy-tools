@@ -20,3 +20,4 @@ console.log(utils.isValidIranianMobile("09000000000"));
 console.log(utils.numberToPersianWords("1.005"));
 console.log(utils.isValidIranianNationalCode("4000000000"));
 console.log(utils.isValidIranianPostalCode("123"));
+console.log(utils.getBankFromCardNumber("6037991234567890"));
