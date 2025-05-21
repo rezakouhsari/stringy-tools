@@ -25,7 +25,7 @@
 ## نصب
 
 ```bash
-npm install stringy-tools
+npm install stringy-tools-kouhsari
 
 
 
